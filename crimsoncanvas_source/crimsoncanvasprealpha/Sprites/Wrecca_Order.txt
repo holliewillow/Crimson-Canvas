@@ -1,0 +1,8 @@
+Lite Punch
+Idle
+Crouch
+Block
+Med Punch 
+Jump
+Heavy 
+Walk
